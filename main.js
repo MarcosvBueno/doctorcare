@@ -1,3 +1,5 @@
+const navigation = document.getElementById('navigation')
+
 window.addEventListener('scroll', onScroll)
 onScroll()
 function onScroll() {
